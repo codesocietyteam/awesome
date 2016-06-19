@@ -1,4 +1,4 @@
-Awesome List
+Awesome list
 ===================
 
 Lista com materiais de estudo de diversas tecnologias e conhecimentos, separado por nível de aprofundamento.
@@ -16,6 +16,8 @@ Lista com materiais de estudo de diversas tecnologias e conhecimentos, separado 
 
 ## Git
 
+> Git é um sistema de controle de versão distribuído, com ênfase em velocidade. [[Wikipédia]](https://pt.wikipedia.org/wiki/Git)
+
 ### Básico
 
 - [Git - Guia Prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
@@ -26,6 +28,8 @@ Lista com materiais de estudo de diversas tecnologias e conhecimentos, separado 
 - [Pro-Git](https://git-scm.com/book/pt-br/v1)
 
 ## Java
+
+> Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90. [[Wikipédia]](https://pt.wikipedia.org/wiki/Java_%28linguagem_de_programa%C3%A7%C3%A3o%29)
 
 ### Básico
 
@@ -40,13 +44,19 @@ Lista com materiais de estudo de diversas tecnologias e conhecimentos, separado 
 
 ## PHP
 
+> PHP é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações do lado do servidor, capazes de gerar conteúdo web dinâmico. [[Wikipédia]](https://pt.wikipedia.org/wiki/PHP)
+
 > Não inserimos nada sobre PHP ainda =(
 
 ## JavaScript
 
+> JavaScript é uma linguagem de programação interpretada. Foi originalmente implementada como parte dos navegadores web para que scripts pudessem ser executados do lado do cliente. [[Wikipédia]](https://pt.wikipedia.org/wiki/JavaScript)
+
 > Não inserimos nada sobre JavaScript ainda =(
 
 ## Orientação a Objetos
+
+> A orientação a objetos é um modelo de análise, projeto e programação de sistemas de software baseado na composição e interação entre diversas unidades de software chamadas de objetos. [[Wikipédia]](https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos)
 
 ### Avançado
 
@@ -54,6 +64,8 @@ Lista com materiais de estudo de diversas tecnologias e conhecimentos, separado 
 - [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto)
 
 ## Desenvolvimento Ágil
+
+> Desenvolvimento ágil de software é um conjunto de metodologias de desenvolvimento de software. [[Wikipédia]](https://pt.wikipedia.org/wiki/Desenvolvimento_%C3%A1gil_de_software)
 
 ### Básico
 
