@@ -1,3 +1,5 @@
+![Awesome!](https://media.giphy.com/media/6IAmwRPF0lMME/giphy.gif "F. Awesome!")
+
 Awesome list
 ===================
 
